@@ -3,7 +3,7 @@ package com.test.recursive;
 import java.util.HashSet;
 import java.util.Set;
 
-//Find smallest positive number NOT in unsorted array
+//Java Find smallest positive number NOT in unsorted array
 //For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
 //Given A = [1, 2, 3], the function should return 4.
 //Given A = [-1, -3], the function should return 1.
